@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+E:\DONOTTOUCH\.metadata\.plugins\org.eclipse.jdt.core
+472559639.index
